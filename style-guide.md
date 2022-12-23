@@ -6,7 +6,7 @@ We follow [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ### File names
 
-- Filenames are case-sensitive. To avoid confusion and cross-OS issues, it is standard practice to **always use lowercase letters**. It may include **dashes** (-) or **underscores** ( \_ ). Preferably **dashes**. **Consistency is a must**.
+- Filenames are case-sensitive. To avoid confusion and cross-OS issues, it is standard practice to **always use lowercase letters**. It may include **dashes** (-). **Consistency is a must**.
   - Good file names -
     - `script-name.js`
     - `user.controller.js`
